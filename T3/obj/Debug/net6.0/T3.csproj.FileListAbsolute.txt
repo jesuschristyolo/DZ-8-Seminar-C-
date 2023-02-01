@@ -1,0 +1,15 @@
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\bin\Debug\net6.0\T3.exe
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\bin\Debug\net6.0\T3.deps.json
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\bin\Debug\net6.0\T3.runtimeconfig.json
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\bin\Debug\net6.0\T3.dll
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\bin\Debug\net6.0\T3.pdb
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\obj\Debug\net6.0\T3.csproj.AssemblyReference.cache
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\obj\Debug\net6.0\T3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\obj\Debug\net6.0\T3.AssemblyInfoInputs.cache
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\obj\Debug\net6.0\T3.AssemblyInfo.cs
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\obj\Debug\net6.0\T3.csproj.CoreCompileInputs.cache
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\obj\Debug\net6.0\T3.dll
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\obj\Debug\net6.0\refint\T3.dll
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\obj\Debug\net6.0\T3.pdb
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\obj\Debug\net6.0\T3.genruntimeconfig.cache
+C:\Users\rusyana\Desktop\GEEKBRAINS\C#\DZ 8 SEMINAR\Tasks\T3\obj\Debug\net6.0\ref\T3.dll
